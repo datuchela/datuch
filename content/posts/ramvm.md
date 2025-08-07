@@ -1,7 +1,7 @@
 +++
 date = '2025-08-07T15:27:09+04:00'
 draft = false
-title = 'Emphemeral VMs with tmpfs'
+title = 'Ephemeral VMs with tmpfs'
 +++
 
 ## Motivation
