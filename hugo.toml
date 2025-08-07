@@ -1,0 +1,4 @@
+baseURL = 'https://datu.ch'
+languageCode = 'en-us'
+title = 'datu.ch'
+theme = 'yue'
