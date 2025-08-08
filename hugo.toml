@@ -2,3 +2,15 @@ baseURL = 'https://datu.ch'
 languageCode = 'en-us'
 title = 'datu.ch'
 theme = 'yue'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      linkify = false
+    [markup.goldmark.renderer]
+      unsafe = true
+
+#  _merge: deep # Import default config
+#  goldmark:
+#    renderer:
+#      unsafe: true # Allow HTML code in Markdown, see https://gohugo.io/getting-started/configuration-markup/#rendererunsafe

@@ -68,6 +68,5 @@ sudo umount /mnt/ramdisk
 To simplify this entire workflow, I created a small script called `ramvm`.  
 It automates the process of creating a RAM-backed overlay and running a disposable VM with minimal effort.
 
-You can check out the source code here:  
-<a target="_blank" href="https://codeberg.org/datuch/ramvm">https://codeberg.org/datuch/ramvm</a>
+You can check out the source code here: <a target="_blank" href="https://codeberg.org/datuch/ramvm">https://codeberg.org/datuch/ramvm</a>
 
